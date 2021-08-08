@@ -11,19 +11,24 @@ export default class Home extends Component {
         <Header style={{ position: 'fixed', zIndex: 1, width: '100%' }}>
           <div className="logo" />
           <Menu theme="dark" mode="horizontal">
-            <Menu.Item key="1">One of</Menu.Item>
-            <Menu.Item key="2">These</Menu.Item>
-            <Menu.Item key="3">Days I</Menu.Item>
-            <Menu.Item key="4">Will make</Menu.Item>
-            <Menu.Item key="5">This Better</Menu.Item>
+            <Menu.Item key="1">Tab</Menu.Item>
+            <Menu.Item key="2">Tabi</Menu.Item>
+            <Menu.Item key="3">Tab Tab</Menu.Item>
           </Menu>
         </Header>
         <Content
           style={{ margin: '24px 16px 0', marginTop: 64, overflow: 'initial' }}
         >
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
           <div
             className="site-layout-background"
-            style={{ padding: 220, textAlign: 'center' }}
+            style={{ textAlign: 'center' }}
           >
             <Spin size="large" />
             <br />
