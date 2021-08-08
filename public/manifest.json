@@ -1,0 +1,9 @@
+{
+  "short_name": "Mahdi's App",
+  "name": "Mahdi's Website React App",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
