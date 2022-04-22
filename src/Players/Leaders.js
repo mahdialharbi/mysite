@@ -11,7 +11,7 @@ const cardStyle = {
   textAlign: "center",
 };
 
-const api = `http://localhost:8081/api/assistLeaders`;
+const api = `https://api-dot-my-website-348009.wl.r.appspot.com/api/assistLeaders`;
 
 class Leaders extends Component {
   constructor(props) {
