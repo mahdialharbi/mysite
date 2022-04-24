@@ -1,6 +1,6 @@
 {
-  "short_name": "Mahdi's App",
-  "name": "Mahdi's Website React App",
+  "short_name": "Mahdi's Site",
+  "name": "Mahdi's Website",
   "icons": [],
   "start_url": ".",
   "display": "standalone",
